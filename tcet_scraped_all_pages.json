@@ -1,0 +1,2755 @@
+[
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/",
+    "scraped_at": "2026-05-15T12:20:10.700122",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "WHERE IDEAS BECOME SYSTEMS"
+      ],
+      "h2": [
+        "New Opportunities",
+        "Verticals",
+        "In the Press",
+        "Current Grant Opportunities",
+        "Upcoming Events"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "The Center of Excellence fosters hands-on learning, advanced research, and industry-driven development across emerging domains.",
+        "Explore CoE Domains",
+        "Reserve labs & resources",
+        "Practice & compete",
+        "Display innovations",
+        "Share knowledge",
+        "Build under pressure",
+        "Real-world exposure",
+        "Solve real challenges",
+        "Funding opportunities",
+        "Strategic collaborations",
+        "Latest Coverage & Announcements",
+        "AI agents are sophisticated AI systems tasked to carry out operations autonomously, but that autonomy can come with a cost. Reportedly, an AI agent powered by Anthropic’s leading Claude model seems to have deleted the entire production database belonging to a company. Chaos and confusion ensued as customers of the company were unable to access their key data. \n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/how-an-ai-agent-deleted-a-startups-critical-data-10660538/?ref=artificial-intelligence_pg",
+        "Even as powerful new AI models like Anthropic’s Mythos continue to make headlines, cybersecurity continues to grapple with a major concern. These same AI tools that can help us can also be weaponised by hackers. While companies like Anthropic have built AI models that are better than most humans at hacking, a new study from Simbian.ai, an AI security operations platform, reveals a troubling gap. These same AI models are failing badly when asked to defend against cyberattacks.\n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/why-ai-still-struggles-to-defend-against-cyberattacks-even-in-the-age-of-mythos-10663367/?ref=artificial-intelligence_pg",
+        "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model.\n\nThe model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to their subscription tier. A complex coding task that may have taken many hours to complete used one premium request. Posing a relatively trivial question also counted as a single premium request.\n\nHowever, the change which is soon to affect GitHub Copilot users aligns the pricing models with those of API charges to large language models, more common among business plans. On the new GitHub Copilot pricing scheme, most requests will be measured according to the tokens used by, input to, and output from the LLM at the heart of Copilot.\n\nRead more: https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+        "After landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.",
+        "OpenAI’s image generation capabilities have been moving fast. The GPT-4o native image generator — sometimes called GPT Image 1 — only launched in March 2025, and already there are signs its successor is in active testing. GPT Image 2 has been spotted in A/B tests inside ChatGPT, and the early signals are genuinely interesting: near-perfect text rendering inside images, realistic UI screenshots, and a noticeable step up in photorealism.\n\nThis isn’t vaporware. Real users have been served the new model without knowing it, and the output differences are visible enough that the AI community has started cataloguing them.\n\nHere’s everything currently known about GPT Image 2 — what it does better, how it was found, and what it means for anyone building with OpenAI’s image tools.",
+        "Curated Grants & Funding Programs",
+        "Events & Conferences",
+        "No upcoming events found.",
+        "No active hackathons.",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/hero-slides/07fb9c6c-538f-420e-9c25-f0d67a8c2eef.png",
+          "alt": "WHERE IDEAS BECOME SYSTEMS",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FFaculty%20Booking.png&w=3840&q=75",
+          "alt": "Facility Booking",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FCoding%20Platform.png&w=3840&q=75",
+          "alt": "Coding Platform",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FProject%20Showcase.png&w=3840&q=75",
+          "alt": "Project Showcase",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FContent%20Creation.jpeg&w=3840&q=75",
+          "alt": "Content Creation",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FHackathon.jpeg&w=3840&q=75",
+          "alt": "Hackathon",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FIndustry%20Internship.png&w=3840&q=75",
+          "alt": "Industry Internship",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FProblem%20Statements.png&w=3840&q=75",
+          "alt": "Problem Statements",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FGrants.png&w=3840&q=75",
+          "alt": "Grants",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FMOUs.jpeg&w=3840&q=75",
+          "alt": "MOU's",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/7df24a12-99c9-4715-a096-7175c372886a.png",
+          "alt": "No warning, no confirmation: How an AI agent deleted a startup’s critical data",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/16035238-f283-40a3-932c-1f9cab02fa91.webp",
+          "alt": "Why AI still struggles to defend against cyberattacks even in the age of Mythos",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/40affea6-b2e2-4376-9587-5524ef33a002.webp",
+          "alt": "Per-token AI charges come to Github Copilot",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/f718defa-5393-4951-8659-e91c2dc03223.webp",
+          "alt": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/3aae5445-f1bf-466d-a52a-56b9666c61de.png",
+          "alt": "What Is GPT Image 2? Everything We Know About OpenAI's Next Image Model",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship Opport",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship Oppor",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Explore Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Facility BookingReserve labs & resourcesarrow_forward",
+          "url": "https://tcetcercd.in/facility-booking"
+        },
+        {
+          "text": "Coding PlatformPractice & competearrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Project ShowcaseDisplay innovationsarrow_forward",
+          "url": "https://showcase.tcetcercd.in/showcase"
+        },
+        {
+          "text": "Content CreationShare knowledgearrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "HackathonBuild under pressurearrow_forward",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry InternshipReal-world exposurearrow_forward",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Problem StatementsSolve real challengesarrow_forward",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "GrantsFunding opportunitiesarrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "MOU'sStrategic collaborationsarrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.igstc.org/"
+        },
+        {
+          "text": "Open",
+          "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+        },
+        {
+          "text": "Open",
+          "url": "https://atalacademy.aicte.gov.in"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.indiascienceandtechnology.gov.in/internships/nhai-summer-internship-2026"
+        },
+        {
+          "text": "Open",
+          "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+        },
+        {
+          "text": "Open",
+          "url": "https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and"
+        },
+        {
+          "text": "Open",
+          "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fund-improvement-st-infrastructure-higher-educational-institutions-fist"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.encurtador.dev/redirecionamento/jloykzm"
+        },
+        {
+          "text": "Open Link",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "View all",
+          "url": "https://tcetcercd.in/innovation/events"
+        },
+        {
+          "text": "View all",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataArtificial Intelligence18a",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Machine Learning30applica",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Booking PortalLab Seat Reservationarrow_forward",
+          "url": "https://tcetcercd.in/facility-booking"
+        },
+        {
+          "text": "Faculty DeskPublish Contentarrow_forward",
+          "url": "https://tcetcercd.in/faculty"
+        },
+        {
+          "text": "Innovation HubProblems & Hackathonsarrow_forward",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/#"
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Issuing Body",
+            "Grant",
+            "Category",
+            "Deadline",
+            "Reference"
+          ],
+          [
+            "IGSTC",
+            "WISER Programme",
+            "GOVT GRANT",
+            "31 Mar 2026",
+            "Open"
+          ],
+          [
+            "DST & Netherlands",
+            "India-Netherlands Hydrogen Fellowship",
+            "GOVT GRANT",
+            "10 Apr 2026",
+            "Open"
+          ],
+          [
+            "ATAL FDP",
+            "Offline Faculty Development Programmes Scheme",
+            "GOVT GRANT",
+            "13 Apr 2026",
+            "Open"
+          ],
+          [
+            "NHAI",
+            "Summer Internship Programme 2026",
+            "GOVT GRANT",
+            "15 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST (SEED Division)",
+            "STI Hubs for SC Communities",
+            "GOVT GRANT",
+            "16 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST & ANR (France)",
+            "Indo-French Joint Call: Applied Math & AI",
+            "GOVT GRANT",
+            "20 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST (FIST)",
+            "Fund for Improvement of S&T (FIST-SHAKTI)",
+            "GOVT GRANT",
+            "30 Apr 2026",
+            "Open"
+          ],
+          [
+            "ICMR - NIRT",
+            "Secondary Analysis of Obesity Interventions",
+            "GOVT GRANT",
+            "30 Apr 2026",
+            "Open"
+          ]
+        ]
+      ],
+      "forms": [],
+      "images_count": 17,
+      "links_count": 50,
+      "tables_count": 1,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility FormNew Opportunities✕Problem StatementsAutomated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship OpportunityInternshipNewAI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship OpportunityInternshipNewESTABLISHED 2001TCET COE DOMAINWHERE IDEAS BECOME SYSTEMSThe Center of Excellence fosters hands-on learning, advanced research, and industry-driven development across emerging domains.Explore InnovationPrevNext5Published News0Upcoming Events8Active Grants1Live CircularsVerticalsExplore CoE DomainsFacility BookingReserve labs & resourcesarrow_forwardCoding PlatformPractice & competearrow_forwardProject ShowcaseDisplay innovationsarrow_forwardContent CreationShare knowledgearrow_forwardHackathonBuild under pressurearrow_forwardIndustry InternshipReal-world exposurearrow_forwardProblem StatementsSolve real challengesarrow_forwardGrantsFunding opportunitiesarrow_forwardMOU'sStrategic collaborationsarrow_forwardIn the PressLatest Coverage & Announcements02 May 2026No warning, no confirmation: How an AI agent deleted a startup’s critical dataAI agents are sophisticated AI systems tasked to carry out operations autonomously, but that autonomy can come with a cost. Reportedly, an AI agent powered by Anthropic’s leading Claude model seems to have deleted the entire production database belonging to a company. Chaos and confusion ensued as customers of the company were unable to access their key data. \n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/how-an-ai-agent-deleted-a-startups-critical-data-10660538/?ref=artificial-intelligence_pg02 May 2026Why AI still struggles to defend against cyberattacks even in the age of MythosEven as powerful new AI models like Anthropic’s Mythos continue to make headlines, cybersecurity continues to grapple with a major concern. These same AI tools that can help us can also be weaponised by hackers. While companies like Anthropic have built AI models that are better than most humans at hacking, a new study from Simbian.ai, an AI security operations platform, reveals a troubling gap. These same AI models are failing badly when asked to defend against cyberattacks.\n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/why-ai-still-struggles-to-defend-against-cyberattacks-even-in-the-age-of-mythos-10663367/?ref=artificial-intelligence_pg02 May 2026Per-token AI charges come to Github CopilotAs of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model.\n\nThe model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to their subscription tier. A complex coding task that may have taken many hours to complete used one premium request. Posing a relatively trivial question also counted as a single premium request.\n\nHowever, the change which is soon to affect GitHub Copilot users aligns the pricing models with those of API charges to large language models, more common among business plans. On the new GitHub Copilot pricing scheme, most requests will be measured according to the tokens used by, input to, and output from the LLM at the heart of Copilot.\n\nRead more: https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/02 May 2026Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networksAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.02 May 2026What Is GPT Image 2? Everything We Know About OpenAI's Next Image ModelOpenAI’s image generation capabilities have been moving fast. The GPT-4o native image generator — sometimes called GPT Image 1 — only launched in March 2025, and already there are signs its successor is in active testing. GPT Image 2 has been spotted in A/B tests inside ChatGPT, and the early signals are genuinely interesting: near-perfect te",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2F"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2F"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship Opport",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship Oppor",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Explore Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Facility BookingReserve labs & resourcesarrow_forward",
+            "url": "https://tcetcercd.in/facility-booking"
+          },
+          {
+            "text": "Coding PlatformPractice & competearrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Content CreationShare knowledgearrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "HackathonBuild under pressurearrow_forward",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry InternshipReal-world exposurearrow_forward",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Problem StatementsSolve real challengesarrow_forward",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "GrantsFunding opportunitiesarrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "MOU'sStrategic collaborationsarrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Open Link",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "View all",
+            "url": "https://tcetcercd.in/innovation/events"
+          },
+          {
+            "text": "View all",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataArtificial Intelligence18a",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Machine Learning30applica",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Booking PortalLab Seat Reservationarrow_forward",
+            "url": "https://tcetcercd.in/facility-booking"
+          },
+          {
+            "text": "Faculty DeskPublish Contentarrow_forward",
+            "url": "https://tcetcercd.in/faculty"
+          },
+          {
+            "text": "Innovation HubProblems & Hackathonsarrow_forward",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/#"
+          }
+        ],
+        "showcase.tcetcercd.in": [
+          {
+            "text": "Project ShowcaseDisplay innovationsarrow_forward",
+            "url": "https://showcase.tcetcercd.in/showcase"
+          }
+        ],
+        "www.igstc.org": [
+          {
+            "text": "Open",
+            "url": "https://www.igstc.org/"
+          }
+        ],
+        "onlinedst.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+          },
+          {
+            "text": "Open",
+            "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+          }
+        ],
+        "atalacademy.aicte.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://atalacademy.aicte.gov.in"
+          }
+        ],
+        "www.indiascienceandtechnology.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://www.indiascienceandtechnology.gov.in/internships/nhai-summer-internship-2026"
+          }
+        ],
+        "dst.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and"
+          },
+          {
+            "text": "Open",
+            "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fund-improvement-st-infrastructure-higher-educational-institutions-fist"
+          }
+        ],
+        "www.encurtador.dev": [
+          {
+            "text": "Open",
+            "url": "https://www.encurtador.dev/redirecionamento/jloykzm"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "tcet.cercd@tcetmumbai.insocial"
+        ],
+        "phones": [],
+        "addresses": [
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  },
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/about",
+    "scraped_at": "2026-05-15T12:20:14.452739",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "The Genesis of Excellence in Technical Education"
+      ],
+      "h2": [
+        "Faculty & Administration",
+        "Chronicles of Development"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "Established with a vision to bridge the gap between academic theory and industrial application, the TCET Centre of Excellence (CoE) stands as a testament to institutional persistence. Our journey began not with a grand building, but with a simple directive: to provide a sanctuary for high-level technical research within Mumbai's thriving engineering landscape.",
+        "For over a decade, we have meticulously curated an environment that demands rigor. Our laboratories are not merely rooms filled with equipment; they are the crucibles where the next generation of intellectual property is forged. We maintain a neutral, evidence-based approach to every grant we secure and every paper we publish.",
+        "\"The pursuit of knowledge is a structural endeavor, requiring both the foundation of tradition and the scaffolding of innovation.\" — Dr. B.K. Mishra",
+        "Executive Directory",
+        "mailprincipal@tcetmumbai.in",
+        "mailtcet.vice-principal@thakureducation.org",
+        "mailvinit.dongre@tcetmumbai.in",
+        "mailloukik.salvi@tcetmumbai.in",
+        "Kicked off the first hackathon, launched project development cycles, and opened registrations for wider participation.",
+        "Introduced students to opportunities, conducted orientations, and onboarded participants into active teams.",
+        "Completed operational readiness, aligned internal processes, and began development of the website and platform.",
+        "Set up the Centre of Excellence, built the core infrastructure, and formed the initial team with a clear execution plan.",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        },
+        {
+          "src": "https://www.collegebatch.com/static/clg-gallery/thakur-college-of-engineering-technology-mumbai-229678.webp",
+          "alt": "Architectural photograph of a modern university building facade with sharp shadows",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Fabout"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Fabout"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/about#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/about#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/about#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/about#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/about#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/about#"
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Year",
+            "Institutional Milestone"
+          ],
+          [
+            "April 2026",
+            "Execution PhaseKicked off the first hackathon, launched project development cycles, and opened registrations for wider participation."
+          ],
+          [
+            "March 2026",
+            "Orientation & ActivationIntroduced students to opportunities, conducted orientations, and onboarded participants into active teams."
+          ],
+          [
+            "January 2026",
+            "Setup & DevelopmentCompleted operational readiness, aligned internal processes, and began development of the website and platform."
+          ],
+          [
+            "December 2025",
+            "Foundation PhaseSet up the Centre of Excellence, built the core infrastructure, and formed the initial team with a clear execution plan."
+          ]
+        ]
+      ],
+      "forms": [],
+      "images_count": 3,
+      "links_count": 22,
+      "tables_count": 1,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility Form07 — Our StoryThe Genesis of Excellence in Technical EducationEstablished with a vision to bridge the gap between academic theory and industrial application, the TCET Centre of Excellence (CoE) stands as a testament to institutional persistence. Our journey began not with a grand building, but with a simple directive: to provide a sanctuary for high-level technical research within Mumbai's thriving engineering landscape.For over a decade, we have meticulously curated an environment that demands rigor. Our laboratories are not merely rooms filled with equipment; they are the crucibles where the next generation of intellectual property is forged. We maintain a neutral, evidence-based approach to every grant we secure and every paper we publish.\"The pursuit of knowledge is a structural endeavor, requiring both the foundation of tradition and the scaffolding of innovation.\" — Dr. B.K. Mishra08 — The TeamFaculty & AdministrationExecutive DirectoryPrincipalDr. B. K. Mishramailprincipal@tcetmumbai.inVice PrincipalDr. R. R.Sedamkarmailtcet.vice-principal@thakureducation.orgResearch & Development DeanDr. Vinit Kumar Dongremailvinit.dongre@tcetmumbai.inHead of Research CultureDr. Loukik Salvimailloukik.salvi@tcetmumbai.in09 — JourneyChronicles of DevelopmentYearInstitutional MilestoneApril 2026Execution PhaseKicked off the first hackathon, launched project development cycles, and opened registrations for wider participation.March 2026Orientation & ActivationIntroduced students to opportunities, conducted orientations, and onboarded participants into active teams.January 2026Setup & DevelopmentCompleted operational readiness, aligned internal processes, and began development of the website and platform.December 2025Foundation PhaseSet up the Centre of Excellence, built the core infrastructure, and formed the initial team with a clear execution plan.TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO© 2026 TCET Centre of Excellence. All Rights Reserved. Designed for Academic Integrity.AccessibilityLegal Archives",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Fabout",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Fabout"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Fabout"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/about#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/about#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/about#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/about#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/about#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/about#"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "Salvimailloukik.salvi@tcetmumbai.in",
+          "Dongremailvinit.dongre@tcetmumbai.inHead",
+          "Mishramailprincipal@tcetmumbai.inVice",
+          "tcet.cercd@tcetmumbai.insocial",
+          "R.Sedamkarmailtcet.vice-principal@thakureducation.orgResearch"
+        ],
+        "phones": [],
+        "addresses": [
+          "Established with a vision to bridge the gap between academic theory and industrial application, the TCET Centre of Excellence (CoE) stands as a testament to institutional persistence. Our journey began not with a grand building, but with a simple directive: to provide a sanctuary for high-level technical research within Mumbai's thriving engineering landscape.",
+          "08 — The TeamFaculty & AdministrationExecutive DirectoryPrincipalDr. B. K. Mishramailprincipal@tcetmumbai.inVice PrincipalDr. R. R.Sedamkarmailtcet.vice-principal@thakureducation.orgResearch & Development DeanDr. Vinit Kumar Dongremailvinit.dongre@tcetmumbai.inHead of Research CultureDr. Loukik Salvimailloukik.salvi@tcetmumbai.in",
+          "Faculty & AdministrationExecutive DirectoryPrincipalDr. B. K. Mishramailprincipal@tcetmumbai.inVice PrincipalDr. R. R.Sedamkarmailtcet.vice-principal@thakureducation.orgResearch & Development DeanDr. Vinit Kumar Dongremailvinit.dongre@tcetmumbai.inHead of Research CultureDr. Loukik Salvimailloukik.salvi@tcetmumbai.in",
+          "PrincipalDr. B. K. Mishramailprincipal@tcetmumbai.inVice PrincipalDr. R. R.Sedamkarmailtcet.vice-principal@thakureducation.orgResearch & Development DeanDr. Vinit Kumar Dongremailvinit.dongre@tcetmumbai.inHead of Research CultureDr. Loukik Salvimailloukik.salvi@tcetmumbai.in",
+          "PrincipalDr. B. K. Mishramailprincipal@tcetmumbai.in",
+          "mailprincipal@tcetmumbai.in",
+          "mailprincipal@tcetmumbai.in",
+          "Research & Development DeanDr. Vinit Kumar Dongremailvinit.dongre@tcetmumbai.in",
+          "mailvinit.dongre@tcetmumbai.in",
+          "mailvinit.dongre@tcetmumbai.in",
+          "Head of Research CultureDr. Loukik Salvimailloukik.salvi@tcetmumbai.in",
+          "mailloukik.salvi@tcetmumbai.in",
+          "mailloukik.salvi@tcetmumbai.in",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  },
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/innovation",
+    "scraped_at": "2026-05-15T12:20:17.963486",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "Continuous Innovation Platform"
+      ],
+      "h2": [
+        "Upcoming Innovation Programs",
+        "Active Hackathon Events",
+        "Archived Hackathon Events"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "Explore open innovation problems, join hackathon events, and track submission outcomes from a single workspace.",
+        "No upcoming programs right now.",
+        "No active or upcoming hackathon events right now.",
+        "ARCHIVED",
+        "TCET Hackathon Academy Phase-2 builds upon the foundation established in Phase-1, transitioning from ideation and prototyping to refinement, scalability, and real-world applicability. In this phase, shortlisted teams will continue developing their existing problem statements, enhancing their solutions with improved functionality, deeper technical integration, and stronger user experience.\n\nParticipants are expected to transform their initial prototypes into more robust and impactful systems by incorporating advanced features such as AI-driven insights, automation, data analytics, and seamless platform integrations. The focus shifts toward creating solutions that are not only innovative but also practical, scalable, and ready for deployment within institutional environments.\n\nA limited set of new problem statements will also be introduced for teams who wish to pivot or for new participants entering this phase. However, teams opting for new problems will be required to build their solutions from scratch.\n\nEvent Schedule:\n\nSession 1: Friday, 17/04/2026 | 2:30 PM – 5:30 PM (3 hours)\nSession 2: Saturday, 18/04/2026 | 10:00 AM – 5:00 PM (7 hours)\n\nImportant Note:\nThe top 3 shortlisted teams from Phase-1 will receive an additional 25 credits if they choose to continue working on their original problem statements. Teams that do not continue with their previous problem statements will be required to start from scratch.\n\nPhase-2 emphasizes product maturity, technical excellence, and real-world impact, challenging participants to elevate their ideas into fully realized solutions that address critical gaps in campus ecosystems.",
+        "Problems:7",
+        "Started:16/4/2026, 2:30:00 pm",
+        "Closed:17/4/2026, 5:30:00 pm",
+        "Submission lock:16/4/2026, 2:30:00 pm",
+        "ARCHIVED",
+        "TCET Hackathon Academy Phase-1 is an innovation-driven event designed to empower students to solve real-world institutional challenges through technology. Participants will build impactful digital solutions across domains such as startup ecosystems, training & placement systems, academic intelligence, and AI-powered platforms.\n \n The hackathon focuses on developing scalable prototypes that enhance collaboration, streamline campus processes, and improve student engagement. Teams will design user-centric applications featuring networking, analytics, automation, and smart integrations, addressing existing gaps in college systems.\n \n The event will be conducted in two sessions: the first session is scheduled on Friday, 10/04/2026, from 2:30 PM to 5:30 PM (3 hours), followed by the second session on 13/04/2026 from 2:30 PM to 6:30 PM (4 hours).\n \n All the details about the hackathon and the problem statements are mentioned in the attached PDF. Notice: https://drive.google.com/file/d/1aDj7ufhO7dV_ejwwm02WVI1Vq95Xyxii/view?usp=sharing",
+        "Problems:5",
+        "Started:10/4/2026, 1:00:00 pm",
+        "Closed:13/4/2026, 6:30:00 pm",
+        "Submission lock:10/4/2026, 11:30:00 am",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Innovation Home",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Open Problem Statements",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Innovation Programs",
+          "url": "https://tcetcercd.in/innovation/programs"
+        },
+        {
+          "text": "View Event Details",
+          "url": "https://tcetcercd.in/innovation/events/2"
+        },
+        {
+          "text": "View Event Details",
+          "url": "https://tcetcercd.in/innovation/events/1"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/innovation#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/innovation#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/innovation#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/innovation#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/innovation#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/innovation#"
+        }
+      ],
+      "tables": [],
+      "forms": [],
+      "images_count": 2,
+      "links_count": 28,
+      "tables_count": 0,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility FormContinuous Innovation PlatformExplore open innovation problems, join hackathon events, and track submission outcomes from a single workspace.Innovation HomeOpen Problem StatementsIndustry InternshipInnovation ProgramsUpcoming Innovation Programs0programsNo upcoming programs right now.Active Hackathon Events0eventsNo active or upcoming hackathon events right now.Archived Hackathon Events2eventsARCHIVEDTCET Hackathon Academy Phase-IITCET Hackathon Academy Phase-2 builds upon the foundation established in Phase-1, transitioning from ideation and prototyping to refinement, scalability, and real-world applicability. In this phase, shortlisted teams will continue developing their existing problem statements, enhancing their solutions with improved functionality, deeper technical integration, and stronger user experience.\n\nParticipants are expected to transform their initial prototypes into more robust and impactful systems by incorporating advanced features such as AI-driven insights, automation, data analytics, and seamless platform integrations. The focus shifts toward creating solutions that are not only innovative but also practical, scalable, and ready for deployment within institutional environments.\n\nA limited set of new problem statements will also be introduced for teams who wish to pivot or for new participants entering this phase. However, teams opting for new problems will be required to build their solutions from scratch.\n\nEvent Schedule:\n\nSession 1: Friday, 17/04/2026 | 2:30 PM – 5:30 PM (3 hours)\nSession 2: Saturday, 18/04/2026 | 10:00 AM – 5:00 PM (7 hours)\n\nImportant Note:\nThe top 3 shortlisted teams from Phase-1 will receive an additional 25 credits if they choose to continue working on their original problem statements. Teams that do not continue with their previous problem statements will be required to start from scratch.\n\nPhase-2 emphasizes product maturity, technical excellence, and real-world impact, challenging participants to elevate their ideas into fully realized solutions that address critical gaps in campus ecosystems.Problems:7Started:16/4/2026, 2:30:00 pmClosed:17/4/2026, 5:30:00 pmSubmission lock:16/4/2026, 2:30:00 pmView Event DetailsARCHIVEDTCET Hackathon Academy Phase-ITCET Hackathon Academy Phase-1 is an innovation-driven event designed to empower students to solve real-world institutional challenges through technology. Participants will build impactful digital solutions across domains such as startup ecosystems, training & placement systems, academic intelligence, and AI-powered platforms.\n \n The hackathon focuses on developing scalable prototypes that enhance collaboration, streamline campus processes, and improve student engagement. Teams will design user-centric applications featuring networking, analytics, automation, and smart integrations, addressing existing gaps in college systems.\n \n The event will be conducted in two sessions: the first session is scheduled on Friday, 10/04/2026, from 2:30 PM to 5:30 PM (3 hours), followed by the second session on 13/04/2026 from 2:30 PM to 6:30 PM (4 hours).\n \n All the details about the hackathon and the problem statements are mentioned in the attached PDF. Notice: https://drive.google.com/file/d/1aDj7ufhO7dV_ejwwm02WVI1Vq95Xyxii/view?usp=sharingProblems:5Started:10/4/2026, 1:00:00 pmClosed:13/4/2026, 6:30:00 pmSubmission lock:10/4/2026, 11:30:00 amView Event DetailsTCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO© 2026 TCET Centre of Excellence. All Rights Reserved. Designed for Academic Integrity.AccessibilityLegal Archives",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Finnovation"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Finnovation"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Innovation Home",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Open Problem Statements",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Innovation Programs",
+            "url": "https://tcetcercd.in/innovation/programs"
+          },
+          {
+            "text": "View Event Details",
+            "url": "https://tcetcercd.in/innovation/events/2"
+          },
+          {
+            "text": "View Event Details",
+            "url": "https://tcetcercd.in/innovation/events/1"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/innovation#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/innovation#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/innovation#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/innovation#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/innovation#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/innovation#"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "tcet.cercd@tcetmumbai.insocial"
+        ],
+        "phones": [],
+        "addresses": [
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  },
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/industry-internship",
+    "scraped_at": "2026-05-15T12:20:21.541791",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "Industry Internship Opportunities"
+      ],
+      "h2": [
+        "Internship Board",
+        "Industry Internship Program - Phase 1 Completed"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "Explore approved internship opportunities posted by industry partners.",
+        "Internship Opportunity",
+        "Type: Industry (Meteorological Watch Office (MWO) - Mumbai)",
+        "This internship focuses on building an AI/ML-based forecasting system to predict critical aviation weather parameters at CSMI Airport, Mumbai. The model will use 10 years of historical METAR data to forecast parameters such as temperature, wind speed, wind direction, wind gust, station pressure (QNH), and visibility for the next 6 hours.\r\n\r\nThe goal is to develop a highly accurate (≥90%) predictive system that can be integrated into real-world aviation operations for take-off and landing forecasting.\r\n\r\nInterns will work on data collection, preprocessing (METAR decoding), model building, and evaluation, with a strong emphasis on real-world deployment readiness.",
+        "Tags:Machine Learning, Data Analysis, Time Series, Predictive Modeling, AI Applications",
+        "Applications:30",
+        "Meteorological Watch Office (MWO) - Mumbai X TCET",
+        "Internship Opportunity",
+        "Type: Industry (Meteorological Watch Office (MWO) - Mumbai)",
+        "This internship involves developing an AI-driven system to automatically generate Terminal Aerodrome Forecasts (TAF) using historical METAR data and Numerical Weather Prediction (NWP) model outputs.\r\n\r\nThe objective is to achieve ≥80% accuracy in generating aviation forecasts and enable automation of operational forecasting processes.\r\n\r\nInterns will work on combining multiple data sources (historical observations + NWP models), understanding aviation forecast formats (TAF), and designing intelligent systems for structured forecast generation.",
+        "Tags:Artificial Intelligence, Data Integration, Forecast Automation, Predictive Systems",
+        "Applications:18",
+        "Meteorological Watch Office (MWO) - Mumbai X TCET",
+        "Internship Opportunity",
+        "Closed",
+        "Type: Industry (CoE Cell)",
+        "The AI Education Hub is a centralized digital platform designed to address the fragmented nature of Artificial Intelligence learning and adoption in education. Currently, educators, students, and institutions rely on scattered resources across multiple platforms, making it difficult to access structured learning, training materials, and implementation guidance.\r\n\r\nThis platform aims to unify AI education by providing a comprehensive system that includes courses, resource libraries, webinars, blogs, and a prompt library for practical AI usage. It enables users to access structured learning paths, download educational materials, participate in events, and explore real-world applications of AI in teaching and learning.\r\n\r\nThe system is designed with scalability in mind, allowing future expansion into features such as user accounts, course enrollment systems, administrative dashboards, and collaborative tools. By integrating multiple learning and engagement modules into a single platform, the solution aims to improve accessibility, enhance knowledge sharing, and accelerate the adoption of AI technologies in education.",
+        "Tags:EdTech, Artificial Intelligence, E-Learning, Web Platform, Learning Management System, AI Education, Digital Platform, Knowledge Hub, Online Courses, Education Technology",
+        "CoE Cell X TCET",
+        "Internship Opportunity",
+        "Closed",
+        "Type: Industry (CoE Cell)",
+        "The AI Voiceover Studio is a centralized platform designed to automate and streamline the creation of high-quality voiceovers for educational, training, and multimedia content. Traditional voiceover production is time-consuming, expensive, and dependent on manual processes such as recording, editing, and repeated revisions, making it difficult to scale content efficiently.\r\n\r\nThis platform addresses these challenges by enabling users to convert text or voice inputs into natural-sounding, customizable voiceovers using advanced AI-based speech synthesis technologies. It supports features such as voice selection, tone and speed control, multilingual output, and optional voice adaptation or cloning.\r\n\r\nThe system provides an end-to-end workflow, including script processing, AI-driven speech generation, audio management, and project-based organization, allowing users to preview, edit, and export voice content seamlessly. Designed with scalability and modularity in mind, the platform can be extended to support advanced capabilities such as subtitle generation, multilingual dubbing, media synchronization, and API-based integrations.\r\n\r\nBy reducing production time, lowering costs, and enabling consistent, high-quality output, the platform empowers educators, content creators, and organizations to produce voice-enabled content at scale.",
+        "Tags:Artificial Intelligence, Speech Technology, Text-to-Speech, Voice AI, Audio Processing, Media Automation, EdTech, NLP, Deep Learning, Content Creation, Voice Generation",
+        "CoE Cell X TCET",
+        "Internship Opportunity",
+        "Closed",
+        "Type: Industry (Gurutech Netcom Private Limited)",
+        "Gurutech Netcom Private Limited aims to develop SnapWiz, a real-time hyperlocal service marketplace that connects customers with photographers for short-duration events.\r\n\r\nCurrently, the process of assigning photographers is handled manually by administrators, resulting in significant operational inefficiencies. This manual approach leads to delays in booking confirmation, underutilization of available photographers, lack of real-time responsiveness, and limited scalability as the number of users grows. As demand increases, the system becomes increasingly difficult to manage, negatively impacting both customer experience and service efficiency.\r\n\r\nThere is a need for an automated and scalable system that can intelligently handle the end-to-end booking and assignment process. The system should be capable of identifying nearby photographers based on location, filtering them according to availability and required skills, and broadcasting booking requests in real time. It should also assign orders using a first-come-first-serve model while ensuring fair allocation and preventing conflicts such as duplicate assignments or overlapping schedules.\r\n\r\nAdditionally, the platform should support essential functionalities such as user authentication, booking management, real-time notifications, cancellation and reassignment, and basic location tracking. The system should operate with high responsiveness and reliability, similar to on-demand service platforms like Uber or Swiggy, but tailored specifically for photographer services.\r\n\r\nThe objective is to build a robust, real-time system that improves operational efficiency, enhances user experience, and enables seamless scaling of the photographer marketplace.",
+        "Tags:Marketplace, Hyperlocal, Real-Time Systems, Booking System, Mobile App, Backend Development, Location-Based Services, Gig Economy, Automation, REST APIs",
+        "Gurutech Netcom Private Limited X TCET",
+        "Internship Opportunity",
+        "Closed",
+        "Type: Industry (Fyre Gig)",
+        "In today’s fast-paced digital ecosystem, businesses struggle to efficiently manage high volumes of customer interactions, identify and qualify potential leads, and extract actionable insights from online data sources. These processes are often handled manually or through fragmented tools, leading to delays, inefficiencies, and missed business opportunities.\r\n\r\nHandling client queries across multiple platforms requires constant human intervention, increasing operational costs and reducing response speed. Similarly, manual lead qualification is time-consuming and inconsistent, making it difficult for businesses to prioritize high-intent prospects. Additionally, extracting relevant information from websites for decision-making is often tedious and lacks real-time responsiveness.\r\n\r\nThere is a clear need for an intelligent, automated system that can seamlessly integrate communication, data extraction, and lead management into a unified workflow. Such a system should be capable of interacting with users in real time, performing on-demand web data extraction, analyzing information using AI techniques, and automating lead engagement and qualification.\r\n\r\nClawBot (powered by OpenClaw) addresses these challenges by proposing an agent-based automation system that integrates with messaging platforms to enable real-time interaction, automate workflows, and enhance business efficiency. The system aims to reduce manual effort, improve response time, and provide a scalable solution for customer interaction, data intelligence, and lead generation",
+        "Tags:AI, Agentic AI, Automation, Lead Generation, Web Scraping, NLP, LLM, Chatbot, Business Automation, Data Processing",
+        "Fyre Gig X TCET",
+        "We successfully completed Phase 1 of our Industry Internship Initiative, offering students the opportunity to work on real-world problem statements across domains like AI, automation, web and mobile development, and intelligent systems.",
+        "Through this initiative, students gained hands-on experience, collaborated with peers, and worked under industry mentorship to build practical, scalable solutions.",
+        "Now, we are expanding further. We are actively collaborating with more industry partners to bring even more impactful projects, learning opportunities, and internship experiences in upcoming phases.",
+        "If you want to work on real problems, build meaningful projects, and stand out - this is your chance.",
+        "Apply now and be part of the next phase.",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Findustry-internship"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Findustry-internship"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Innovation Home",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Open Problem Statements",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/11/support/1776152804336-Collaborative_Research_Proposal-IMD_Thakur_College-1.pdf"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/12/support/1776152953525-Collaborative_Research_Proposal-IMD_Thakur_College-2.pdf"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/15/support/1776157150229-Problem_Statement_3-supporting_document.pdf"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/16/support/1776157238814-Problem_Statement_4-supporting_document.pdf"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/14/support/1776156692816-Problem_Statement_2-supporting_document.pdf"
+        },
+        {
+          "text": "View Support Document",
+          "url": "https://tcetcercd.in/api/storage/innovation/open-problems/13/support/1776156438369-OpenClaw_Objective__1_.pdf"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/industry-internship#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/industry-internship#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/industry-internship#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/industry-internship#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/industry-internship#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/industry-internship#"
+        }
+      ],
+      "tables": [],
+      "forms": [],
+      "images_count": 2,
+      "links_count": 31,
+      "tables_count": 0,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility FormIndustry Internship OpportunitiesExplore approved internship opportunities posted by industry partners.Innovation HomeOpen Problem StatementsIndustry InternshipAll StatusesOpenClosedArchivedApply FiltersInternship BoardPHASE 2 · Open StatementsInternship OpportunityAI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Type: Industry (Meteorological Watch Office (MWO) - Mumbai)This internship focuses on building an AI/ML-based forecasting system to predict critical aviation weather parameters at CSMI Airport, Mumbai. The model will use 10 years of historical METAR data to forecast parameters such as temperature, wind speed, wind direction, wind gust, station pressure (QNH), and visibility for the next 6 hours.\r\n\r\nThe goal is to develop a highly accurate (≥90%) predictive system that can be integrated into real-world aviation operations for take-off and landing forecasting.\r\n\r\nInterns will work on data collection, preprocessing (METAR decoding), model building, and evaluation, with a strong emphasis on real-world deployment readiness.Tags:Machine Learning, Data Analysis, Time Series, Predictive Modeling, AI ApplicationsApplications:30View Support DocumentMeteorological Watch Office (MWO) - Mumbai X TCETApply NowInternship OpportunityAutomated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataType: Industry (Meteorological Watch Office (MWO) - Mumbai)This internship involves developing an AI-driven system to automatically generate Terminal Aerodrome Forecasts (TAF) using historical METAR data and Numerical Weather Prediction (NWP) model outputs.\r\n\r\nThe objective is to achieve ≥80% accuracy in generating aviation forecasts and enable automation of operational forecasting processes.\r\n\r\nInterns will work on combining multiple data sources (historical observations + NWP models), understanding aviation forecast formats (TAF), and designing intelligent systems for structured forecast generation.Tags:Artificial Intelligence, Data Integration, Forecast Automation, Predictive SystemsApplications:18View Support DocumentMeteorological Watch Office (MWO) - Mumbai X TCETApply NowPHASE 1 · Closed & Archived StatementsInternship OpportunityClosedAI Education Hub – Centralized Platform for Learning, Resources & CollaborationType: Industry (CoE Cell)The AI Education Hub is a centralized digital platform designed to address the fragmented nature of Artificial Intelligence learning and adoption in education. Currently, educators, students, and institutions rely on scattered resources across multiple platforms, making it difficult to access structured learning, training materials, and implementation guidance.\r\n\r\nThis platform aims to unify AI education by providing a comprehensive system that includes courses, resource libraries, webinars, blogs, and a prompt library for practical AI usage. It enables users to access structured learning paths, download educational materials, participate in events, and explore real-world applications of AI in teaching and learning.\r\n\r\nThe system is designed with scalability in mind, allowing future expansion into features such as user accounts, course enrollment systems, administrative dashboards, and collaborative tools. By integrating multiple learning and engagement modules into a single platform, the solution aims to improve accessibility, enhance knowledge sharing, and accelerate the adoption of AI technologies in education.Tags:EdTech, Artificial Intelligence, E-Learning, Web Platform, Learning Management System, AI Education, Digital Platform, Knowledge Hub, Online Courses, Education TechnologyView Support DocumentCoE Cell X TCETInternship OpportunityClosedAI Voiceover Studio – Automated Voice Generation Platform for Scalable Content ProductionType: Industry (CoE Cell)The AI Voiceover Studio is a centralized platform designed to automate and streamline the creation of high-quality voiceovers for educational, training, and multimedia content. Traditional voiceover production is time-consuming, expensive, and dependent on manual processes such as recording, editing, and repeated revisions, making it difficult to scale content efficiently.\r\n\r\nThis platform addresses these challenges by enabling users to convert text or voice inputs into natural-sounding, customizable voiceovers using advanced AI-based speech synthesis technologies. It supports features such as voice selection, tone and speed control, multilingual output, and optional voice adaptation or cloning.\r\n\r\nThe sys",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Findustry-internship",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Findustry-internship"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Findustry-internship"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Innovation Home",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Open Problem Statements",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/11/support/1776152804336-Collaborative_Research_Proposal-IMD_Thakur_College-1.pdf"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/12/support/1776152953525-Collaborative_Research_Proposal-IMD_Thakur_College-2.pdf"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/15/support/1776157150229-Problem_Statement_3-supporting_document.pdf"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/16/support/1776157238814-Problem_Statement_4-supporting_document.pdf"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/14/support/1776156692816-Problem_Statement_2-supporting_document.pdf"
+          },
+          {
+            "text": "View Support Document",
+            "url": "https://tcetcercd.in/api/storage/innovation/open-problems/13/support/1776156438369-OpenClaw_Objective__1_.pdf"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/industry-internship#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/industry-internship#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/industry-internship#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/industry-internship#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/industry-internship#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/industry-internship#"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "tcet.cercd@tcetmumbai.insocial"
+        ],
+        "phones": [],
+        "addresses": [
+          "Type: Industry (Meteorological Watch Office (MWO) - Mumbai)",
+          "View Support DocumentMeteorological Watch Office (MWO) - Mumbai X TCET",
+          "Meteorological Watch Office (MWO) - Mumbai X TCET",
+          "Type: Industry (Meteorological Watch Office (MWO) - Mumbai)",
+          "View Support DocumentMeteorological Watch Office (MWO) - Mumbai X TCET",
+          "Meteorological Watch Office (MWO) - Mumbai X TCET",
+          "Tags:Marketplace, Hyperlocal, Real-Time Systems, Booking System, Mobile App, Backend Development, Location-Based Services, Gig Economy, Automation, REST APIs",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  },
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/innovation/problems",
+    "scraped_at": "2026-05-15T12:20:25.096452",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "Open Problems"
+      ],
+      "h2": [
+        "Problem Board"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "Apply for real-world industry problems and showcase your skills",
+        "No open problems available at the moment.",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation%2Fproblems"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation%2Fproblems"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Innovation Home",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Open Problem Statements",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/innovation/problems#"
+        }
+      ],
+      "tables": [],
+      "forms": [],
+      "images_count": 2,
+      "links_count": 25,
+      "tables_count": 0,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility FormOpen ProblemsApply for real-world industry problems and showcase your skillsInnovation HomeOpen Problem StatementsIndustry InternshipAll StatusesOpenClosedApply FiltersProblem BoardNo open problems available at the moment.TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO© 2026 TCET Centre of Excellence. All Rights Reserved. Designed for Academic Integrity.AccessibilityLegal Archives",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2Finnovation%2Fproblems",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Finnovation%2Fproblems"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2Finnovation%2Fproblems"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Innovation Home",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Open Problem Statements",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/innovation/problems#"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "tcet.cercd@tcetmumbai.insocial"
+        ],
+        "phones": [],
+        "addresses": [
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  },
+  {
+    "source": "TCET",
+    "url": "https://tcetcercd.in/#news",
+    "scraped_at": "2026-05-15T12:20:28.758959",
+    "metadata": {
+      "title": "TCET Centre of Excellence | Official Portal",
+      "h1": [
+        "WHERE IDEAS BECOME SYSTEMS"
+      ],
+      "h2": [
+        "New Opportunities",
+        "Verticals",
+        "In the Press",
+        "Current Grant Opportunities",
+        "Upcoming Events"
+      ],
+      "paragraphs": [
+        "Main",
+        "Programs",
+        "Spotlight",
+        "The Center of Excellence fosters hands-on learning, advanced research, and industry-driven development across emerging domains.",
+        "Explore CoE Domains",
+        "Reserve labs & resources",
+        "Practice & compete",
+        "Display innovations",
+        "Share knowledge",
+        "Build under pressure",
+        "Real-world exposure",
+        "Solve real challenges",
+        "Funding opportunities",
+        "Strategic collaborations",
+        "Latest Coverage & Announcements",
+        "AI agents are sophisticated AI systems tasked to carry out operations autonomously, but that autonomy can come with a cost. Reportedly, an AI agent powered by Anthropic’s leading Claude model seems to have deleted the entire production database belonging to a company. Chaos and confusion ensued as customers of the company were unable to access their key data. \n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/how-an-ai-agent-deleted-a-startups-critical-data-10660538/?ref=artificial-intelligence_pg",
+        "Even as powerful new AI models like Anthropic’s Mythos continue to make headlines, cybersecurity continues to grapple with a major concern. These same AI tools that can help us can also be weaponised by hackers. While companies like Anthropic have built AI models that are better than most humans at hacking, a new study from Simbian.ai, an AI security operations platform, reveals a troubling gap. These same AI models are failing badly when asked to defend against cyberattacks.\n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/why-ai-still-struggles-to-defend-against-cyberattacks-even-in-the-age-of-mythos-10663367/?ref=artificial-intelligence_pg",
+        "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model.\n\nThe model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to their subscription tier. A complex coding task that may have taken many hours to complete used one premium request. Posing a relatively trivial question also counted as a single premium request.\n\nHowever, the change which is soon to affect GitHub Copilot users aligns the pricing models with those of API charges to large language models, more common among business plans. On the new GitHub Copilot pricing scheme, most requests will be measured according to the tokens used by, input to, and output from the LLM at the heart of Copilot.\n\nRead more: https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+        "After landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.",
+        "OpenAI’s image generation capabilities have been moving fast. The GPT-4o native image generator — sometimes called GPT Image 1 — only launched in March 2025, and already there are signs its successor is in active testing. GPT Image 2 has been spotted in A/B tests inside ChatGPT, and the early signals are genuinely interesting: near-perfect text rendering inside images, realistic UI screenshots, and a noticeable step up in photorealism.\n\nThis isn’t vaporware. Real users have been served the new model without knowing it, and the output differences are visible enough that the AI community has started cataloguing them.\n\nHere’s everything currently known about GPT Image 2 — what it does better, how it was found, and what it means for anyone building with OpenAI’s image tools.",
+        "Curated Grants & Funding Programs",
+        "Events & Conferences",
+        "No upcoming events found.",
+        "No active hackathons.",
+        "Thakur Village, Kandivali (E), Mumbai - 400101.",
+        "Maharashtra, India.",
+        "Email: tcet.cercd@tcetmumbai.in"
+      ],
+      "images": [
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Fcoe-logo.jpeg&w=256&q=75",
+          "alt": "CoE Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2Ftcetlogo.png&w=128&q=75",
+          "alt": "TCET Logo",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/hero-slides/07fb9c6c-538f-420e-9c25-f0d67a8c2eef.png",
+          "alt": "WHERE IDEAS BECOME SYSTEMS",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FFaculty%20Booking.png&w=3840&q=75",
+          "alt": "Facility Booking",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FCoding%20Platform.png&w=3840&q=75",
+          "alt": "Coding Platform",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FProject%20Showcase.png&w=3840&q=75",
+          "alt": "Project Showcase",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FContent%20Creation.jpeg&w=3840&q=75",
+          "alt": "Content Creation",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FHackathon.jpeg&w=3840&q=75",
+          "alt": "Hackathon",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FIndustry%20Internship.png&w=3840&q=75",
+          "alt": "Industry Internship",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FProblem%20Statements.png&w=3840&q=75",
+          "alt": "Problem Statements",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FGrants.png&w=3840&q=75",
+          "alt": "Grants",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/_next/image?url=%2FMOUs.jpeg&w=3840&q=75",
+          "alt": "MOU's",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/7df24a12-99c9-4715-a096-7175c372886a.png",
+          "alt": "No warning, no confirmation: How an AI agent deleted a startup’s critical data",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/16035238-f283-40a3-932c-1f9cab02fa91.webp",
+          "alt": "Why AI still struggles to defend against cyberattacks even in the age of Mythos",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/40affea6-b2e2-4376-9587-5524ef33a002.webp",
+          "alt": "Per-token AI charges come to Github Copilot",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/f718defa-5393-4951-8659-e91c2dc03223.webp",
+          "alt": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "title": ""
+        },
+        {
+          "src": "https://tcetcercd.in/api/storage/news/3aae5445-f1bf-466d-a52a-56b9666c61de.png",
+          "alt": "What Is GPT Image 2? Everything We Know About OpenAI's Next Image Model",
+          "title": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about"
+        },
+        {
+          "text": "Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry Internship",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Laboratory",
+          "url": "https://tcetcercd.in/laboratory"
+        },
+        {
+          "text": "Events",
+          "url": "https://tcetcercd.in/#events"
+        },
+        {
+          "text": "Grants",
+          "url": "https://tcetcercd.in/#grants"
+        },
+        {
+          "text": "News",
+          "url": "https://tcetcercd.in/#news"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F"
+        },
+        {
+          "text": "Book Facility Form",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+        },
+        {
+          "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship Opport",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship Oppor",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Explore Innovation",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Facility BookingReserve labs & resourcesarrow_forward",
+          "url": "https://tcetcercd.in/facility-booking"
+        },
+        {
+          "text": "Coding PlatformPractice & competearrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Project ShowcaseDisplay innovationsarrow_forward",
+          "url": "https://showcase.tcetcercd.in/showcase"
+        },
+        {
+          "text": "Content CreationShare knowledgearrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "HackathonBuild under pressurearrow_forward",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Industry InternshipReal-world exposurearrow_forward",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "Problem StatementsSolve real challengesarrow_forward",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "GrantsFunding opportunitiesarrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "MOU'sStrategic collaborationsarrow_forward",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.igstc.org/"
+        },
+        {
+          "text": "Open",
+          "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+        },
+        {
+          "text": "Open",
+          "url": "https://atalacademy.aicte.gov.in"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.indiascienceandtechnology.gov.in/internships/nhai-summer-internship-2026"
+        },
+        {
+          "text": "Open",
+          "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+        },
+        {
+          "text": "Open",
+          "url": "https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and"
+        },
+        {
+          "text": "Open",
+          "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fund-improvement-st-infrastructure-higher-educational-institutions-fist"
+        },
+        {
+          "text": "Open",
+          "url": "https://www.encurtador.dev/redirecionamento/jloykzm"
+        },
+        {
+          "text": "Open Link",
+          "url": "https://tcetcercd.in/industry-internship"
+        },
+        {
+          "text": "View all",
+          "url": "https://tcetcercd.in/innovation/events"
+        },
+        {
+          "text": "View all",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataArtificial Intelligence18a",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Machine Learning30applica",
+          "url": "https://tcetcercd.in/innovation/problems"
+        },
+        {
+          "text": "Booking PortalLab Seat Reservationarrow_forward",
+          "url": "https://tcetcercd.in/facility-booking"
+        },
+        {
+          "text": "Faculty DeskPublish Contentarrow_forward",
+          "url": "https://tcetcercd.in/faculty"
+        },
+        {
+          "text": "Innovation HubProblems & Hackathonsarrow_forward",
+          "url": "https://tcetcercd.in/innovation"
+        },
+        {
+          "text": "Institute Address & NAAC",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Mumbai University",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Quick Links",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "https://tcetcercd.in/privacy-policy"
+        },
+        {
+          "text": "Contact Us",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Accessibility",
+          "url": "https://tcetcercd.in/#"
+        },
+        {
+          "text": "Legal Archives",
+          "url": "https://tcetcercd.in/#"
+        }
+      ],
+      "tables": [
+        [
+          [
+            "Issuing Body",
+            "Grant",
+            "Category",
+            "Deadline",
+            "Reference"
+          ],
+          [
+            "IGSTC",
+            "WISER Programme",
+            "GOVT GRANT",
+            "31 Mar 2026",
+            "Open"
+          ],
+          [
+            "DST & Netherlands",
+            "India-Netherlands Hydrogen Fellowship",
+            "GOVT GRANT",
+            "10 Apr 2026",
+            "Open"
+          ],
+          [
+            "ATAL FDP",
+            "Offline Faculty Development Programmes Scheme",
+            "GOVT GRANT",
+            "13 Apr 2026",
+            "Open"
+          ],
+          [
+            "NHAI",
+            "Summer Internship Programme 2026",
+            "GOVT GRANT",
+            "15 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST (SEED Division)",
+            "STI Hubs for SC Communities",
+            "GOVT GRANT",
+            "16 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST & ANR (France)",
+            "Indo-French Joint Call: Applied Math & AI",
+            "GOVT GRANT",
+            "20 Apr 2026",
+            "Open"
+          ],
+          [
+            "DST (FIST)",
+            "Fund for Improvement of S&T (FIST-SHAKTI)",
+            "GOVT GRANT",
+            "30 Apr 2026",
+            "Open"
+          ],
+          [
+            "ICMR - NIRT",
+            "Secondary Analysis of Obesity Interventions",
+            "GOVT GRANT",
+            "30 Apr 2026",
+            "Open"
+          ]
+        ]
+      ],
+      "forms": [],
+      "images_count": 17,
+      "links_count": 50,
+      "tables_count": 1,
+      "forms_count": 0
+    },
+    "data": {
+      "raw_text": "TCET Centre of Excellence | Official PortalSolve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunitiesTCET CENTRE OF EXCELLENCEFor Research Culture & DevelopmentHomeAboutProgramsexpand_moreSpotlightexpand_moreLoginBook FacilitymenuMainHomeAboutProgramsInnovationIndustry InternshipLaboratorySpotlightEventsGrantsNewsLoginBook Facility FormNew Opportunities✕Problem StatementsAutomated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship OpportunityInternshipNewAI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship OpportunityInternshipNewESTABLISHED 2001TCET COE DOMAINWHERE IDEAS BECOME SYSTEMSThe Center of Excellence fosters hands-on learning, advanced research, and industry-driven development across emerging domains.Explore InnovationPrevNext5Published News0Upcoming Events8Active Grants1Live CircularsVerticalsExplore CoE DomainsFacility BookingReserve labs & resourcesarrow_forwardCoding PlatformPractice & competearrow_forwardProject ShowcaseDisplay innovationsarrow_forwardContent CreationShare knowledgearrow_forwardHackathonBuild under pressurearrow_forwardIndustry InternshipReal-world exposurearrow_forwardProblem StatementsSolve real challengesarrow_forwardGrantsFunding opportunitiesarrow_forwardMOU'sStrategic collaborationsarrow_forwardIn the PressLatest Coverage & Announcements02 May 2026No warning, no confirmation: How an AI agent deleted a startup’s critical dataAI agents are sophisticated AI systems tasked to carry out operations autonomously, but that autonomy can come with a cost. Reportedly, an AI agent powered by Anthropic’s leading Claude model seems to have deleted the entire production database belonging to a company. Chaos and confusion ensued as customers of the company were unable to access their key data. \n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/how-an-ai-agent-deleted-a-startups-critical-data-10660538/?ref=artificial-intelligence_pg02 May 2026Why AI still struggles to defend against cyberattacks even in the age of MythosEven as powerful new AI models like Anthropic’s Mythos continue to make headlines, cybersecurity continues to grapple with a major concern. These same AI tools that can help us can also be weaponised by hackers. While companies like Anthropic have built AI models that are better than most humans at hacking, a new study from Simbian.ai, an AI security operations platform, reveals a troubling gap. These same AI models are failing badly when asked to defend against cyberattacks.\n\nRead more: https://indianexpress.com/article/technology/artificial-intelligence/why-ai-still-struggles-to-defend-against-cyberattacks-even-in-the-age-of-mythos-10663367/?ref=artificial-intelligence_pg02 May 2026Per-token AI charges come to Github CopilotAs of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model.\n\nThe model that’s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of ‘Premium Requests’ according to their subscription tier. A complex coding task that may have taken many hours to complete used one premium request. Posing a relatively trivial question also counted as a single premium request.\n\nHowever, the change which is soon to affect GitHub Copilot users aligns the pricing models with those of API charges to large language models, more common among business plans. On the new GitHub Copilot pricing scheme, most requests will be measured according to the tokens used by, input to, and output from the LLM at the heart of Copilot.\n\nRead more: https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/02 May 2026Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networksAfter landing agreements with Google, SpaceX, and OpenAI, the U.S. Defense Department said on Friday that it has signed deals with Nvidia, Microsoft, Amazon Web Services, and Reflection AI that allow it to deploy their AI tech and models on its classified networks for “lawful operational use.”\n\n“These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force and will strengthen our warfighters’ ability to maintain decision superiority across all domains of warfare,” the statement reads.02 May 2026What Is GPT Image 2? Everything We Know About OpenAI's Next Image ModelOpenAI’s image generation capabilities have been moving fast. The GPT-4o native image generator — sometimes called GPT Image 1 — only launched in March 2025, and already there are signs its successor is in active testing. GPT Image 2 has been spotted in A/B tests inside ChatGPT, and the early signals are genuinely interesting: near-perfect te",
+      "sections": [
+        {
+          "tag": "div",
+          "classes": [
+            "marquee-content",
+            "ml-2",
+            "sm:ml-4"
+          ],
+          "text": "Solve real-world industry problems and gain recognitionOpen Problem Statements available — Register your team nowBuild your portfolio with live projects and hackathonsExplore grants, events & innovation opportunities",
+          "html_snippet": "<div class=\"marquee-content ml-2 sm:ml-4\"><span>Solve real-world industry problems and gain recognition</span><span>Open Problem Statements available — Register your team now</span><span>Build your portfolio with live projects and hackathons</span><span>Explore grants, events &amp; innovation opportunities</span></div>"
+        }
+      ],
+      "navigation": [
+        {
+          "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "Home",
+          "url": "https://tcetcercd.in/",
+          "type": "nav"
+        },
+        {
+          "text": "About",
+          "url": "https://tcetcercd.in/about",
+          "type": "nav"
+        },
+        {
+          "text": "Login",
+          "url": "https://tcetcercd.in/login?next=%2F",
+          "type": "nav"
+        },
+        {
+          "text": "Book Facility",
+          "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required",
+          "type": "nav"
+        }
+      ],
+      "all_links": {
+        "tcetcercd.in": [
+          {
+            "text": "TCET CENTRE OF EXCELLENCEFor Research Culture & Development",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2F"
+          },
+          {
+            "text": "Book Facility",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Home",
+            "url": "https://tcetcercd.in/"
+          },
+          {
+            "text": "About",
+            "url": "https://tcetcercd.in/about"
+          },
+          {
+            "text": "Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry Internship",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Laboratory",
+            "url": "https://tcetcercd.in/laboratory"
+          },
+          {
+            "text": "Events",
+            "url": "https://tcetcercd.in/#events"
+          },
+          {
+            "text": "Grants",
+            "url": "https://tcetcercd.in/#grants"
+          },
+          {
+            "text": "News",
+            "url": "https://tcetcercd.in/#news"
+          },
+          {
+            "text": "Login",
+            "url": "https://tcetcercd.in/login?next=%2F"
+          },
+          {
+            "text": "Book Facility Form",
+            "url": "https://tcetcercd.in/login?next=%2Ffacility-booking&reason=booking-auth-required"
+          },
+          {
+            "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataIndustry Internship Opport",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Industry Internship Oppor",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Explore Innovation",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Facility BookingReserve labs & resourcesarrow_forward",
+            "url": "https://tcetcercd.in/facility-booking"
+          },
+          {
+            "text": "Coding PlatformPractice & competearrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Content CreationShare knowledgearrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "HackathonBuild under pressurearrow_forward",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Industry InternshipReal-world exposurearrow_forward",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "Problem StatementsSolve real challengesarrow_forward",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "GrantsFunding opportunitiesarrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "MOU'sStrategic collaborationsarrow_forward",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Open Link",
+            "url": "https://tcetcercd.in/industry-internship"
+          },
+          {
+            "text": "View all",
+            "url": "https://tcetcercd.in/innovation/events"
+          },
+          {
+            "text": "View all",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Automated TAF (Terminal Aerodrome Forecast) Generation using AI & NWP DataArtificial Intelligence18a",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "AI-Based Short-Term Aviation Weather Forecasting (6-Hour Prediction System)Machine Learning30applica",
+            "url": "https://tcetcercd.in/innovation/problems"
+          },
+          {
+            "text": "Booking PortalLab Seat Reservationarrow_forward",
+            "url": "https://tcetcercd.in/facility-booking"
+          },
+          {
+            "text": "Faculty DeskPublish Contentarrow_forward",
+            "url": "https://tcetcercd.in/faculty"
+          },
+          {
+            "text": "Innovation HubProblems & Hackathonsarrow_forward",
+            "url": "https://tcetcercd.in/innovation"
+          },
+          {
+            "text": "Institute Address & NAAC",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Mumbai University",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Quick Links",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Privacy Policy",
+            "url": "https://tcetcercd.in/privacy-policy"
+          },
+          {
+            "text": "Contact Us",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Accessibility",
+            "url": "https://tcetcercd.in/#"
+          },
+          {
+            "text": "Legal Archives",
+            "url": "https://tcetcercd.in/#"
+          }
+        ],
+        "showcase.tcetcercd.in": [
+          {
+            "text": "Project ShowcaseDisplay innovationsarrow_forward",
+            "url": "https://showcase.tcetcercd.in/showcase"
+          }
+        ],
+        "www.igstc.org": [
+          {
+            "text": "Open",
+            "url": "https://www.igstc.org/"
+          }
+        ],
+        "onlinedst.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+          },
+          {
+            "text": "Open",
+            "url": "https://onlinedst.gov.in/ProjectProposalFormat.aspx"
+          }
+        ],
+        "atalacademy.aicte.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://atalacademy.aicte.gov.in"
+          }
+        ],
+        "www.indiascienceandtechnology.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://www.indiascienceandtechnology.gov.in/internships/nhai-summer-internship-2026"
+          }
+        ],
+        "dst.gov.in": [
+          {
+            "text": "Open",
+            "url": "https://dst.gov.in/callforproposals/india-france-call-proposals-applied-mathematics-and-artificial-intelligence-dst-and"
+          },
+          {
+            "text": "Open",
+            "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/fund-improvement-st-infrastructure-higher-educational-institutions-fist"
+          }
+        ],
+        "www.encurtador.dev": [
+          {
+            "text": "Open",
+            "url": "https://www.encurtador.dev/redirecionamento/jloykzm"
+          }
+        ]
+      },
+      "contact_info": {
+        "emails": [
+          "tcet.cercd@tcetmumbai.insocial"
+        ],
+        "phones": [],
+        "addresses": [
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescriptionInstitutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact UsAccreditationNAAC A+NBAISO",
+          "TCET Centre of ExcellenceThakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.insocial_leaderboardlanguagedescription",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.Maharashtra, India.Email: tcet.cercd@tcetmumbai.in",
+          "Thakur Village, Kandivali (E), Mumbai - 400101.",
+          "Email: tcet.cercd@tcetmumbai.in",
+          "Institutional Quick LinksInstitute Address & NAACMumbai UniversityQuick LinksPrivacy PolicyContact Us"
+        ]
+      },
+      "structured_data": []
+    }
+  }
+]

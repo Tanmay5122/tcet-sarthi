@@ -1,17 +1,16 @@
 """
-Database module for TCET Chatbot
-Handles PostgreSQL connection pool and SQLAlchemy session management
+Database module for TCET Chatbot - PostgreSQL connection pool
 """
-
-from sqlalchemy import create_engine, event
+from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker, Session
 from sqlalchemy.pool import QueuePool
 from src.config import settings
+from src.models.opportunity import Base, OpportunityModel
 import logging
 
 logger = logging.getLogger(__name__)
 
-# Create engine with connection pooling
+# Create engine
 engine = create_engine(
     settings.database_url,
     echo=settings.sqlalchemy_echo,
@@ -19,20 +18,33 @@ engine = create_engine(
     pool_size=20,
     max_overflow=0,
     pool_pre_ping=True,
-    pool_recycle=3600,  # Recycle connections every hour
+    pool_recycle=3600,
 )
 
-# Create session factory
-SessionLocal = sessionmaker(
-    autocommit=False,
-    autoflush=False,
-    bind=engine,
-)
+# Session factory
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 
-# Dependency for FastAPI
+def init_db():
+    """Create all tables"""
+    Base.metadata.create_all(bind=engine)
+    logger.info("✓ Database tables initialized")
+
+
+def test_connection():
+    """Test DB connection"""
+    try:
+        with engine.connect() as conn:
+            conn.execute(text("SELECT 1"))
+            logger.info("✓ PostgreSQL connected")
+            return True
+    except Exception as e:
+        logger.error(f"✗ PostgreSQL failed: {e}")
+        return False
+
+
 def get_db():
-    """Get database session for FastAPI dependency injection"""
+    """FastAPI dependency - get DB session"""
     db = SessionLocal()
     try:
         yield db
@@ -40,22 +52,10 @@ def get_db():
         db.close()
 
 
-# Test connection
-def test_connection():
-    """Test database connection"""
-    try:
-        with engine.connect() as conn:
-            result = conn.execute("SELECT 1")
-            logger.info("✓ PostgreSQL connection successful")
-            return True
-    except Exception as e:
-        logger.error(f"✗ PostgreSQL connection failed: {e}")
-        return False
-
-
 if __name__ == "__main__":
-    # Quick test
     if test_connection():
-        print("Database connection verified!")
+        print("✓ DB OK")
+        init_db()
+        print("✓ Tables created")
     else:
-        print("Database connection failed!")
+        print("✗ DB failed")
